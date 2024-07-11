@@ -1,0 +1,4 @@
+.DS_store
+base_stat*.csv
+cp*
+old/
